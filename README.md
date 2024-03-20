@@ -1,4 +1,4 @@
-# ML-Template
+# NN-Template
 
 Templates for Neural Network models.
 
