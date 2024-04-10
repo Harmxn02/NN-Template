@@ -5,7 +5,7 @@ Templates for Neural Network models.
 ## Folder structure
 
 - `/classification/` contains classification models
-- `/regression/` will contain regression models
+- `/regression/` contains regression models
 
 ## Sections
 
@@ -20,14 +20,17 @@ Templates for Neural Network models.
 
 ### Classification
 
-- [tf.keras.Sequential](https://www.tensorflow.org/api_docs/python/tf/keras/Sequential)
+- [`tf.keras.Sequential`](https://www.tensorflow.org/api_docs/python/tf/keras/Sequential)
   - `Dense()`
   - `Dense()` with `Dropout()`
   - `Dense()` with `Dropout()` & `BatchNormalization()`
 
 ### Regression
 
-- TODO
+- [`tf.keras.Sequential`](https://www.tensorflow.org/api_docs/python/tf/keras/Sequential)
+  - `Dense()`
+  - `Dense()` with `Dropout()`
+  - `Dense()` with `Dropout()` & `BatchNormalization()`
 
 ## Dataset used
 
