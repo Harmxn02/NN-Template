@@ -14,15 +14,13 @@ Templates for Neural Network models.
 2. Understanding the data
 3. Visualizing
 4. Modelling
-5. Comparing models
+5. Evaluating model(s)
 
-## Models covered
+## Architectures
 
 ### Classification
 
 - [`tf.keras.Sequential`](https://www.tensorflow.org/api_docs/python/tf/keras/Sequential)
-  - `Dense()`
-  - `Dense()` with `Dropout()`
   - `Dense()` with `Dropout()` & `BatchNormalization()`
 
 ### Regression
