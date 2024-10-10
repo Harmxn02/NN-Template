@@ -26,8 +26,6 @@ Templates for Neural Network models.
 ### Regression
 
 - [`tf.keras.Sequential`](https://www.tensorflow.org/api_docs/python/tf/keras/Sequential)
-  - `Dense()`
-  - `Dense()` with `Dropout()`
   - `Dense()` with `Dropout()` & `BatchNormalization()`
 
 ## Dataset used
@@ -36,3 +34,5 @@ Templates for Neural Network models.
 <!-- https://www.scribbr.com/citation/generator -->
 
 Elkomy, A. (2024). Breast cancer. Kaggle. <https://www.kaggle.com/datasets/adhamelkomy/breast-cancer>
+
+Birla, N. Vehicle dataset. Kaggle. <https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho>
