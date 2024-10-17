@@ -22,11 +22,13 @@ Templates for Neural Network models.
 
 - [`tf.keras.Sequential`](https://www.tensorflow.org/api_docs/python/tf/keras/Sequential)
   - `Dense()` with `Dropout()` & `BatchNormalization()`
+- PyTorch simple pass forward architecture
 
 ### Regression
 
 - [`tf.keras.Sequential`](https://www.tensorflow.org/api_docs/python/tf/keras/Sequential)
   - `Dense()` with `Dropout()` & `BatchNormalization()`
+- PyTorch simple pass forward architecture
 
 ## Dataset used
 
